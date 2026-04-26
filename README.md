@@ -1,8 +1,8 @@
 # AI & ML Portfolio — Wassim Riachi
 
-> **Note:** These notebooks were originally built on Google Colab as part of self-directed AI/ML programs and stored privately in Google Drive. I'm publishing them here in response to a specific request for hands-on coding examples — they accurately represent the work I did, just never had a reason to make them public before.
+> **Note:** These notebooks were originally built on Google Colab as part of self-directed AI/ML programs and stored privately in Google Drive. I'm publishing them here in response to a specific request for hands-on coding examples — they accurately represent the work I did, just never had a reason to make them public before. My older deep learning, computer vision, and NLP work from 2021 has been on GitHub since then — see the companion repos in the ML Foundations section below.
 
-Senior Technical Program Manager with a software engineering background and hands-on experience building production AI systems. This portfolio documents my self-directed AI/ML learning from 2021 through 2025, progressing from classical machine learning to multi-agent agentic AI systems.
+Senior Technical Program Manager with a software engineering background and hands-on experience building production AI systems. I've been building with AI since 2021 — from classical ML and deep learning foundations through to production multi-agent agentic systems. This portfolio documents that progression.
 
 ## Repository Structure
 
